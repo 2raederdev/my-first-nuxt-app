@@ -53,7 +53,7 @@ export default {
   build: {
   },
   env: {
-    fbAPIKey: 'AIzaSyDfhwgJiau2nkqPwJOAQRRlGYT0se3k6IA'
+    fbAPIKey: '...'
   },
   transition: {
     name: 'fade',
