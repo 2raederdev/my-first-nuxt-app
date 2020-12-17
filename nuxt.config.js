@@ -45,7 +45,7 @@ export default {
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
   axios: {
-    baseURL: process.env.BASE_URL || 'https://nuxt-udemy-blog-75358.firebaseio.com/',
+    baseURL: process.env.BASE_URL || 'url del proyecto en firebase',
     credentials: false
   },
 
@@ -53,7 +53,7 @@ export default {
   build: {
   },
   env: {
-    fbAPIKey: '...'
+    fbAPIKey: 'la api key de firebase'
   },
   transition: {
     name: 'fade',
